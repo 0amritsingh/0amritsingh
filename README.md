@@ -1,6 +1,6 @@
+<!--
 ## Hi there 👋
 
-<!--
 **0amritsingh/0amritsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+```python
+$ pip install 0amritsingh
+Collecting 0amritsingh
+  Downloading 0amritsingh-0.1.tar.gz (4.2 kB)
+  Preparing metadata (setup.py) ... done
+
+Installing collected packages: nikhil25803
+Successfully installed 0amritsingh-0.1
+
+$ python
+
+>>> from 0amritsingh import README
+>>> README.md()
+
+{
+    "About" : "Hi, AMRIT this side 👋",
+    "I'm" : "in love with programming",
+    "Currently" : "In 12th standard",
+    "Learning" : "Python",
+    "Looking to " : "Collaborate on Open-Source projects",
+    "Loves to" : "Solve DSA questions",
+    "Reach me at" : "amritsingh72007@gmail.com"
+}
+
+>>> exit()
+```
