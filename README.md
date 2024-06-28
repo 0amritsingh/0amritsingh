@@ -1,4 +1,4 @@
->About Me 😉
+**```About Me 😉```**
 <!--
 ## Hi there 👋
 
@@ -21,7 +21,7 @@ Collecting 0amritsingh
   Downloading 0amritsingh-0.1.tar.gz (4.2 kB)
   Preparing metadata (setup.py) ... done
 
-Installing collected packages: nikhil25803
+Installing collected packages: 0amritsingh
 Successfully installed 0amritsingh-0.1
 
 $ python
@@ -34,7 +34,7 @@ $ python
     "I'm" : "in love with programming",
     "Currently" : "In 12th standard",
     "Learning" : "Python",
-    "Looking to " : "Collaborate on Open-Source projects",
+    "Looking to" : "Collaborate on Open-Source projects",
     "Loves to" : "Solve DSA questions",
     "Reach me at" : "amritsingh72007@gmail.com"
 }
