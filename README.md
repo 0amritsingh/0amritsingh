@@ -1,4 +1,3 @@
-**```About Me 😉```**
 <!--
 ## Hi there 👋
 
@@ -15,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--
+**```About Me 😉```**
 ```python
 $ pip install 0amritsingh
 Collecting 0amritsingh
@@ -41,3 +43,7 @@ $ python
 
 >>> exit()
 ```
+-->
+
+# 👋 Hello, World!
+Check out some cool repos, if they help you out than please make sure to follow me. So that in future if I upload any other repo you don't miss it.
